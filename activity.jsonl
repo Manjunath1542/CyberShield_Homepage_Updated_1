@@ -1,0 +1,5 @@
+{"time": "15:14:23", "date": "2026-11-22", "event": "Simulation check", "detail": "Virtual assessment completed for 192.168.1.9 and 192.168.1.17.", "status": "success"}
+{"time": "15:14:36", "date": "2026-11-22", "event": "LAN security assessment", "detail": "Assessed entered client address 192.168.1.17 against host 192.168.1.9:5000.", "status": "success"}
+{"time": "15:14:49", "date": "2026-11-22", "event": "Message received", "detail": "hi", "status": "success"}
+{"time": "15:15:13", "date": "2026-11-22", "event": "Message received", "detail": "hi", "status": "success"}
+{"time": "15:15:20", "date": "2026-11-22", "event": "Message received", "detail": "hlo", "status": "success"}
